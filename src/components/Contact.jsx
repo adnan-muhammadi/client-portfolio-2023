@@ -73,7 +73,7 @@ const Contact = () => {
           ref={formRef}
           onSubmit={handleSubmit}
           className="mt-8 flex flex-col gap-6 font-poppins">
-          <h3 className={styles.sectionHeadTextLight}><a href='tel:+92 317 7912895'>Phone: +92 317 7912895</a></h3>
+          <h3 className={styles.sectionHeadTextLight}><a href='tel:+92 344 7721091'>Phone: +92 344 7721091</a></h3>
           <h3 className={styles.sectionHeadTextLight}><a href='mailto:talibrizwan13@gmail.com'>Email: talibrizwan13@gmail.com</a></h3>
         </form>
       </motion.div>
